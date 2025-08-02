@@ -21,13 +21,10 @@ const Hero = () => {
           
           <div className="space-y-6 animate-fade-in">
             <div className="space-y-4">
-              <div className="text-center">
-                <p className="text-lg text-primary font-semibold mb-2">Samantha Lewe</p>
-                <h1 className="text-4xl font-bold text-foreground leading-tight">
-                  Fractional CMO &
-                  <span className="text-primary block">Growth Catalyst</span>
-                </h1>
-              </div>
+              <h1 className="text-4xl font-bold text-foreground leading-tight">
+                Fractional CMO &
+                <span className="text-primary block">Growth Catalyst</span>
+              </h1>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Driving measurable growth for ambitious companies through data-driven marketing strategies, 
                 scalable systems, and team leadership that delivers results.
@@ -68,7 +65,6 @@ const Hero = () => {
           {/* Left Content */}
           <div className="space-y-8 animate-fade-in">
             <div className="space-y-4">
-              <p className="text-xl text-primary font-semibold mb-4">Samantha Lewe</p>
               <h1 className="text-5xl lg:text-6xl font-bold text-foreground leading-tight">
                 Fractional CMO &
                 <span className="text-primary block">Growth Catalyst</span>
