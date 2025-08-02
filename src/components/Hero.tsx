@@ -14,7 +14,7 @@ const Hero = () => {
               <img 
                 src={headshotImage} 
                 alt="Samantha Lewe - Fractional CMO" 
-                className="relative w-48 h-48 rounded-full object-cover shadow-strong border-4 border-background"
+                className="relative w-48 h-48 rounded-full object-cover object-top shadow-strong border-4 border-background"
               />
             </div>
           </div>
@@ -110,7 +110,7 @@ const Hero = () => {
               <img 
                 src={headshotImage} 
                 alt="Samantha Lewe - Fractional CMO" 
-                className="relative w-72 h-72 rounded-full object-cover shadow-strong border-4 border-background"
+                className="relative w-72 h-72 rounded-full object-cover object-top shadow-strong border-4 border-background"
               />
             </div>
           </div>
