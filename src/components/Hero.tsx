@@ -4,14 +4,8 @@ const headshotImage = "/lovable-uploads/c7f54b3d-453e-491a-9222-441cae9904f7.png
 
 const Hero = () => {
   return (
-    <section className="relative min-h-screen bg-hero-gradient flex flex-col justify-center px-6 py-12 lg:py-20">
-      <div className="max-w-6xl mx-auto w-full">
-        {/* Name above the fold */}
-        <div className="mb-8 lg:mb-12">
-          <h2 className="text-2xl lg:text-3xl font-semibold text-foreground text-left">
-            Samantha Lewe
-          </h2>
-        </div>
+    <section className="relative min-h-screen bg-hero-gradient flex items-center justify-center px-6 py-12 lg:py-20">
+      <div className="max-w-6xl mx-auto">
         {/* Mobile Layout - Headshot First */}
         <div className="lg:hidden text-center space-y-8">
           <div className="flex justify-center animate-slide-up">
