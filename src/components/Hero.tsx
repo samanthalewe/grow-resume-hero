@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ExternalLink, Download } from "lucide-react";
-const headshotImage = "/lovable-uploads/3e294ce4-646c-4d29-9cc1-b07144481a7d.png";
+import headshotImage from "@/assets/samantha-headshot-zoomed.jpg";
 
 const Hero = () => {
   return (
