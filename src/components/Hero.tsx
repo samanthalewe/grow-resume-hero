@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ExternalLink, Download } from "lucide-react";
-import headshotImage from "@/assets/samantha-headshot.jpg";
+import headshotImage from "@/assets/samantha-headshot-professional.jpg";
 
 const Hero = () => {
   return (
