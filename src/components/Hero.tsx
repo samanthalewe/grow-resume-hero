@@ -61,8 +61,8 @@ const Hero = () => {
         </div>
 
         {/* Desktop Layout */}
-        <div className="hidden lg:block space-y-8">
-          <div className="grid lg:grid-cols-2 gap-12 items-center">
+        <div className="hidden lg:block space-y-12">
+          <div className="grid lg:grid-cols-[400px,1fr] gap-16 items-start">
             {/* Left Content - Headshot */}
             <div className="flex justify-center lg:justify-start animate-slide-up">
               <div className="relative">
