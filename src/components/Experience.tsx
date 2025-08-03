@@ -5,7 +5,7 @@ import { TrendingUp, Users, Target, Zap } from "lucide-react";
 const experiences = [
   {
     company: "Just Slide Media",
-    role: "Digital CMO, Telco",
+    role: "Digital CMO",
     period: "2021 - Present",
     highlights: [
       "Drove 500K+ new subscribers annually while reducing customer acquisition costs by 65% for Boost Mobile digital direct-to-consumer business",
