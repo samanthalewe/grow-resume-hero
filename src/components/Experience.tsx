@@ -4,15 +4,15 @@ import { TrendingUp, Users, Target, Zap } from "lucide-react";
 
 const experiences = [
   {
-    company: "TechScale Ventures",
-    role: "Fractional CMO",
-    period: "2023 - Present",
+    company: "Just Slide Media",
+    role: "Digital CMO, Telco",
+    period: "2021 - Present",
     highlights: [
-      "Increased qualified lead generation by 340% across portfolio companies",
-      "Built and scaled marketing teams from 1 to 15+ members",
-      "Implemented data-driven attribution models saving $2M+ in ad spend"
+      "Drove 500K+ new subscribers annually while reducing customer acquisition costs by 65% for Boost Mobile digital direct-to-consumer business",
+      "Developed and executed digital acquisition budgets exceeding $100M annually",
+      "Executed multi-channel digital acquisition strategies for app-first telco, driving 2.5x growth in new subscriber acquisition"
     ],
-    metrics: "340% lead growth • $2M+ saved • 15+ team members",
+    metrics: "Reduce SAC 65% • Managed $100M+ budget • 2.5X gross adds",
     icon: TrendingUp
   },
   {
