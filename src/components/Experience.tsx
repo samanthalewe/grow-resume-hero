@@ -58,11 +58,10 @@ const Experience = () => {
     <section className="py-20 px-6 bg-background">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16 animate-fade-in">
-          <h2 className="text-4xl font-bold text-foreground mb-4">
+          <h2 className="text-3xl font-bold text-foreground mb-4">
             16+ Years Driving Digital Growth for Marketing & Product Teams | Expert in Scaling, Strategy & Leadership
           </h2>
           <div className="text-left max-w-4xl mx-auto">
-            <h3 className="text-2xl font-semibold text-foreground mb-6">SELECTED HIGHLIGHTS</h3>
             <ul className="space-y-4 text-lg text-muted-foreground">
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
