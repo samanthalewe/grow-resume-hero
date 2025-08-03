@@ -59,7 +59,7 @@ const Experience = () => {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-3xl font-bold text-foreground mb-4">
-            16+ Years Driving Digital Growth for Marketing & Product Teams | Expert in Scaling, Strategy & Leadership
+            16+ Years Driving Digital Growth for Marketing & Product Teams
           </h2>
           <div className="text-left max-w-4xl mx-auto">
             <ul className="space-y-4 text-lg text-muted-foreground">
