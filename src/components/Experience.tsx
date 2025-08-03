@@ -65,15 +65,15 @@ const Experience = () => {
             <ul className="space-y-4 text-lg text-muted-foreground">
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
-                <span>Spearheaded comprehensive digital consumer acquisition strategies for 15+ telecommunications brands' direct-to-consumer divisions, including high-profile brands such as Boost Mobile</span>
+                <span>Spearheaded digital consumer acquisition strategies for 15+ telecommunications brands' direct-to-consumer divisions, including Boost Mobile</span>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
-                <span>Developed digital performance frameworks and SAC modeling systems to accurately forecast and optimize $100M+ marketing budgets, consistently meeting and exceeding target subscriber acquisition goals for executive business reviews</span>
+                <span>Developed marketing frameworks and SAC modeling systems to forecast and optimize $100M+ marketing budgets, consistently meeting and exceeding goals</span>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
-                <span>Architected comprehensive telco pricing and competitive promotion strategies as part of broader revenue optimization strategy, increasing revenue streams and reducing churn rates while maximizing promotional profitability</span>
+                <span>Architected comprehensive telco pricing and competitive promotion strategies, increasing profitability and reducing churn</span>
               </li>
             </ul>
           </div>
