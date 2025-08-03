@@ -19,8 +19,8 @@ const Hero = () => {
             </div>
           </div>
           
-          <div className="space-y-6 animate-fade-in">
-            <div className="space-y-4">
+          <div className="space-y-4 animate-fade-in">
+            <div className="space-y-3">
               <h1 className="text-4xl font-bold text-foreground leading-tight">
                 Fractional CMO &
                 <span className="text-primary block">Growth Catalyst</span>
@@ -61,7 +61,7 @@ const Hero = () => {
         </div>
 
         {/* Desktop Layout */}
-        <div className="hidden lg:block space-y-12">
+        <div className="hidden lg:block space-y-8">
           <div className="grid lg:grid-cols-[400px,1fr] gap-16 items-start">
             {/* Left Content - Headshot */}
             <div className="flex justify-center lg:justify-start animate-slide-up">
@@ -76,8 +76,8 @@ const Hero = () => {
             </div>
 
             {/* Right Content - Text */}
-            <div className="space-y-6 animate-fade-in">
-              <div className="space-y-4">
+            <div className="space-y-4 animate-fade-in">
+              <div className="space-y-3">
                 <h1 className="text-5xl lg:text-6xl font-bold text-foreground leading-tight">
                   Fractional CMO &
                   <span className="text-primary block">Growth Catalyst</span>
