@@ -26,8 +26,8 @@ const Hero = () => {
                 <span className="text-primary block">Growth Catalyst</span>
               </h1>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Driving measurable growth for ambitious companies through data-driven marketing strategies, 
-                scalable systems, and team leadership that delivers results.
+                Digital CMO with expertise in transforming telecommunications customer acquisition through innovative online strategies. 
+                Skilled in leading cross-functional teams to drive D2C growth, performance acquisition funnels, and maximizing customer lifetime value.
               </p>
             </div>
             
@@ -83,8 +83,8 @@ const Hero = () => {
                   <span className="text-primary block">Growth Catalyst</span>
                 </h1>
                 <p className="text-xl text-muted-foreground leading-relaxed">
-                  Driving measurable growth for ambitious companies through data-driven marketing strategies, 
-                  scalable systems, and team leadership that delivers results.
+                  Digital CMO with expertise in transforming telecommunications customer acquisition through innovative online strategies. 
+                  Skilled in leading cross-functional teams to drive D2C growth, performance acquisition funnels, and maximizing customer lifetime value.
                 </p>
               </div>
             </div>
