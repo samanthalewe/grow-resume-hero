@@ -28,13 +28,13 @@ const experiences = [
     icon: Target
   },
   {
-    company: "StartupBoost",
-    role: "Marketing Director",
+    company: "Unreal Mobile",
+    role: "CMO",
     period: "2019 - 2021",
     highlights: [
-      "Architected growth engine that scaled from $1M to $25M ARR",
-      "Reduced customer acquisition cost by 65% through optimization",
-      "Built customer success program increasing NPS from 6 to 72"
+      "Acquired by international pop icon and entrepreneur Iggy Azalea",
+      "Served as founding CEO of premium unlimited telco brand, under FreedomPop's portfolio",
+      "Architected and executed comprehensive go-to-market strategy for premium unlimited telco brand launch, including market analysis, competitive positioning, pricing strategy, and customer acquisition planning"
     ],
     metrics: "2400% ARR growth • 65% CAC reduction • NPS: 72",
     icon: Zap
