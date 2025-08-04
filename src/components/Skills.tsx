@@ -106,9 +106,9 @@ const Skills = () => {
           </h3>
           <div className="flex flex-wrap justify-center gap-4">
             {[
-              "Google Analytics", "HubSpot", "Salesforce", "Segment", "Mixpanel",
-              "Facebook Ads", "Google Ads", "LinkedIn Ads", "Klaviyo", "Notion",
-              "Figma", "Zapier", "Airtable", "Slack", "Asana"
+              "Google Analytics", "Firebase", "Google Tag Manager", "Amplitude", "Mixpanel", "Appsflyer", "Branch.io",
+              "Amazon Ads", "Google Ads", "Meta Ads", "X Ads", "Snap Ads", "Reddit Ads",
+              "Google Sheets", "Excel", "Figma"
             ].map((tool, idx) => (
               <Badge 
                 key={idx} 
