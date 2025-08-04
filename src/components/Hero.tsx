@@ -4,7 +4,7 @@ const headshotImage = "/lovable-uploads/c7f54b3d-453e-491a-9222-441cae9904f7.png
 
 const Hero = () => {
   return (
-    <section className="relative min-h-screen bg-hero-gradient flex items-center justify-center px-6 py-12 lg:py-20">
+    <section className="relative bg-hero-gradient flex items-center justify-center px-6 py-12 lg:py-16">
       <div className="max-w-6xl mx-auto">
         {/* Mobile Layout - Headshot First */}
         <div className="lg:hidden text-center space-y-8">
