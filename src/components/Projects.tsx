@@ -9,7 +9,8 @@ const projects = [
     description: "Leveraging AI to vibe code a professional resume in the style of high converting performance landing pages.",
     tech: ["React", "TypeScript", "Tailwind", "Vite", "Radix UI", "Lovable"],
     status: "Live",
-    type: "Vibe coding experiment"
+    type: "Vibe coding experiment",
+    githubUrl: "https://github.com/samanthalewe/grow-resume-hero.git"
   },
   {
     title: "A/B Test Calculator",
@@ -108,6 +109,8 @@ const Projects = () => {
                     variant="outline" 
                     size="sm" 
                     className="flex-1 group/btn"
+                    onClick={() => project.githubUrl && window.open(project.githubUrl, '_blank')}
+                    disabled={!project.githubUrl}
                   >
                     <Code className="w-4 h-4 group-hover/btn:scale-110 transition-transform" />
                     View Code
