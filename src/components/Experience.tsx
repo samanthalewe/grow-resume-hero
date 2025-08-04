@@ -40,13 +40,13 @@ const experiences = [
     icon: Zap
   },
   {
-    company: "DigitalFirst Agency",
-    role: "Senior Growth Manager",
-    period: "2017 - 2019",
+    company: "FreedomPop",
+    role: "VP Growth Marketing Operations",
+    period: "2012 - 2019",
     highlights: [
-      "Managed $10M+ in digital ad spend across 50+ client accounts",
-      "Developed proprietary attribution framework adopted company-wide",
-      "Achieved average 4.2x ROAS across all managed campaigns"
+      "Own digital distribution channels including affiliate, retail, marketplace, mobile, and native content resulting in growth from $1M/YR to $42M/YR in revenue",
+      "Built a global affiliate network of 5,000+ publishers that generated over $5M in revenue",
+      "Expanded market reach through strategic channel partnerships with leading deal platforms, generating $27M in revenue via Slickdeals, Groupon, Woot, and Zulily collaborations"
     ],
     metrics: "$10M+ ad spend • 50+ clients • 4.2x ROAS",
     icon: Users
