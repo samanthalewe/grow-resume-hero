@@ -140,7 +140,7 @@ const Projects = () => {
             <Button 
               variant="linkedin" 
               size="xl"
-              onClick={() => window.open('https://linkedin.com/in/samantha-lewe', '_blank')}
+              onClick={() => window.open('https://www.linkedin.com/in/samanthalewe', '_blank')}
             >
               <ExternalLink className="w-5 h-5" />
               Connect on LinkedIn

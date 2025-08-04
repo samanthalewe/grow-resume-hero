@@ -35,25 +35,10 @@ const Hero = () => {
                 variant="hero" 
                 size="xl" 
                 className="group"
-                onClick={() => window.open('https://linkedin.com/in/samantha-lewe', '_blank')}
+                onClick={() => window.open('https://www.linkedin.com/in/samanthalewe', '_blank')}
               >
                 Connect on LinkedIn
                 <ExternalLink className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-              </Button>
-              
-              <Button 
-                variant="outline" 
-                size="xl"
-                onClick={() => {
-                  // Create a dummy PDF download
-                  const link = document.createElement('a');
-                  link.href = '/resume-samantha-lewe.pdf';
-                  link.download = 'Samantha_Lewe_Resume.pdf';
-                  link.click();
-                }}
-              >
-                <Download className="w-5 h-5" />
-                Download Resume
               </Button>
             </div>
           </div>
@@ -94,25 +79,10 @@ const Hero = () => {
               variant="hero" 
               size="xl" 
               className="group"
-              onClick={() => window.open('https://linkedin.com/in/samantha-lewe', '_blank')}
+              onClick={() => window.open('https://www.linkedin.com/in/samanthalewe', '_blank')}
             >
               Connect on LinkedIn
               <ExternalLink className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-            </Button>
-            
-            <Button 
-              variant="outline" 
-              size="xl"
-              onClick={() => {
-                // Create a dummy PDF download
-                const link = document.createElement('a');
-                link.href = '/resume-samantha-lewe.pdf';
-                link.download = 'Samantha_Lewe_Resume.pdf';
-                link.click();
-              }}
-            >
-              <Download className="w-5 h-5" />
-              Download Resume
             </Button>
           </div>
         </div>
