@@ -12,7 +12,7 @@ const experiences = [
       "Developed and executed digital acquisition budgets exceeding $100M annually",
       "Executed multi-channel digital acquisition strategies for app-first telco, driving 2.5x growth in new subscriber acquisition"
     ],
-    metrics: "Reduce SAC 65% • Managed $100M+ budget • 2.5X gross adds",
+    metrics: "65% SAC reduction • Managed $100M+ budget • 2.5X gross adds",
     icon: TrendingUp
   },
   {
