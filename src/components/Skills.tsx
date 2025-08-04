@@ -16,7 +16,7 @@ const skillCategories = [
   {
     title: "Growth Strategy",
     icon: TrendingUp,
-    skills: ["Growth Hacking", "Market Expansion", "Product-Market Fit", "Go-to-Market Strategy"],
+    skills: ["Telco Direct-to-Consumer Marketing", "Digital Acquisition Strategy", "Digital Transformation Strategy", "Omnichannel Customer Experience", "Conversion Rate Optimization (CRO)", "Marketing Attribution & Analytics", "Multi-Channel performance budget and forecasting", "Marketing Technology Stack Management"],
     color: "bg-blue-500/10 text-blue-600 border-blue-200"
   },
   {
