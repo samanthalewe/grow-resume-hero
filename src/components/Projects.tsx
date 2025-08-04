@@ -19,31 +19,10 @@ const projects = [
     type: "Marketing Tool"
   },
   {
-    title: "Lead Scoring Model",
-    description: "Machine learning model for predicting lead quality based on behavioral data and demographic information.",
-    tech: ["Python", "Scikit-learn", "API Integration"],
-    status: "Research",
-    type: "ML Experiment"
-  },
-  {
-    title: "Content Performance Tracker",
-    description: "Automated content analysis tool that tracks engagement metrics across social platforms and suggests optimization.",
-    tech: ["Node.js", "API Integrations", "Automation"],
-    status: "Development",
-    type: "Content Tool"
-  },
-  {
-    title: "Customer Journey Mapper",
-    description: "Interactive visualization tool for mapping and analyzing customer touchpoints across the entire marketing funnel.",
-    tech: ["Vue.js", "Data Visualization", "UX Design"],
-    status: "Live",
-    type: "Analytics Tool"
-  },
-  {
     title: "Marketing Attribution Engine",
     description: "Custom attribution modeling system for accurately tracking multi-touch customer journeys and channel effectiveness.",
     tech: ["React", "Backend APIs", "Advanced Analytics"],
-    status: "Live",
+    status: "Research",
     type: "Attribution Tool"
   }
 ];
