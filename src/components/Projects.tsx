@@ -19,6 +19,13 @@ const projects = [
     type: "Marketing Tool"
   },
   {
+    title: "Multimonth Pricing Matrix",
+    description: "Leveraging AI to vibe code an easy to use framework to research and create competitive telco multi-month promotions with % savings that can be exported for GTM presentations.",
+    tech: ["Tailwind", "Lovable"],
+    status: "Development",
+    type: "Vibe coding experiment"
+  },
+  {
     title: "Marketing Attribution Engine",
     description: "Custom attribution modeling system for accurately tracking multi-touch customer journeys and channel effectiveness.",
     tech: ["React", "Backend APIs", "Advanced Analytics"],
