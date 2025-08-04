@@ -24,7 +24,7 @@ const experiences = [
       "Led product roadmap to target and exceed 20% MoM MRR Growth",
       "Execute product-led growth strategies like improved sign up flow to optimize conversion by 84%"
     ],
-    metrics: "85% brand awareness • $50M+ revenue • 3 promotions",
+    metrics: "Increase CVR +84% • Increase demos +400% • +20% MRR",
     icon: Target
   },
   {
