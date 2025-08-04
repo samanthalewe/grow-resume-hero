@@ -44,11 +44,11 @@ const experiences = [
     role: "VP Growth Marketing Operations",
     period: "2012 - 2019",
     highlights: [
-      "Own digital distribution channels including affiliate, retail, marketplace, mobile, and native content resulting in growth from $1M/YR to $42M/YR in revenue",
+      "Own digital distribution channels including affiliate, retail, marketplace, mobile, and native content resulting in growth from $1M/YR to $20M/YR in revenue",
       "Built a global affiliate network of 5,000+ publishers that generated over $5M in revenue",
       "Expanded market reach through strategic channel partnerships with leading deal platforms, generating $27M in revenue via Slickdeals, Groupon, Woot, and Zulily collaborations"
     ],
-    metrics: "$10M+ ad spend • 50+ clients • 4.2x ROAS",
+    metrics: "$27M in revenue • 5k partner network",
     icon: Users
   }
 ];
