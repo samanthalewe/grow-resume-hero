@@ -18,7 +18,7 @@ const experiences = [
   {
     company: "UTM.io & McGaw.io",
     role: "Growth & Product",
-    period: "2021 - 2023",
+    period: "2019 - 2021",
     highlights: [
       "Developed sales program to increase demos by 400%",
       "Led product roadmap to target and exceed 20% MoM MRR Growth",
@@ -30,7 +30,7 @@ const experiences = [
   {
     company: "Unreal Mobile",
     role: "CEO",
-    period: "2019 - 2021",
+    period: "2018 - 2019",
     highlights: [
       "Acquired by international pop icon and entrepreneur Iggy Azalea",
       "Served as founding CEO of premium unlimited telco brand, under FreedomPop's portfolio",
