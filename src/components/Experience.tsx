@@ -29,7 +29,7 @@ const experiences = [
   },
   {
     company: "Unreal Mobile",
-    role: "CMO",
+    role: "CEO",
     period: "2019 - 2021",
     highlights: [
       "Acquired by international pop icon and entrepreneur Iggy Azalea",
