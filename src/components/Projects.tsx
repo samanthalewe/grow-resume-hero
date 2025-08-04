@@ -26,6 +26,13 @@ const projects = [
     type: "Vibe coding experiment"
   },
   {
+    title: "Cashew AI",
+    description: "Dog nutrition planner that syncs w google calendar and sends detailed reminders.",
+    tech: ["Tailwind", "Lovable"],
+    status: "Development",
+    type: "Vibe coding experiment"
+  },
+  {
     title: "Marketing Attribution Engine",
     description: "Custom attribution modeling system for accurately tracking multi-touch customer journeys and channel effectiveness.",
     tech: ["React", "Backend APIs", "Advanced Analytics"],
