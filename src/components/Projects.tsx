@@ -112,7 +112,6 @@ const Projects = () => {
                     onClick={() => project.githubUrl && window.open(project.githubUrl, '_blank')}
                     disabled={!project.githubUrl}
                   >
-                    <Code className="w-4 h-4 group-hover/btn:scale-110 transition-transform" />
                     View Code
                   </Button>
                   {project.status === "Live" && (
