@@ -5,11 +5,11 @@ import { ExternalLink, Github, Code } from "lucide-react";
 
 const projects = [
   {
-    title: "Growth Analytics Dashboard",
-    description: "Real-time marketing performance dashboard built with React and D3.js for tracking attribution across multiple channels.",
-    tech: ["React", "TypeScript", "D3.js", "Tailwind"],
+    title: "Resumes as Performance Landing Pages",
+    description: "Leveraging AI to vibe code a professional resume in the style of high converting performance landing pages.",
+    tech: ["Tailwind", "Lovable"],
     status: "Live",
-    type: "Analytics Tool"
+    type: "Vibe coding experiment"
   },
   {
     title: "A/B Test Calculator",
