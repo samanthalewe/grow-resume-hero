@@ -7,7 +7,7 @@ const projects = [
   {
     title: "Resumes as Performance Landing Pages",
     description: "Leveraging AI to vibe code a professional resume in the style of high converting performance landing pages.",
-    tech: ["Tailwind", "Lovable"],
+    tech: ["React", "TypeScript", "Tailwind", "Vite", "Radix UI", "Lovable"],
     status: "Live",
     type: "Vibe coding experiment"
   },
