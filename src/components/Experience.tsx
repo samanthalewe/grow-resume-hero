@@ -16,8 +16,8 @@ const experiences = [
     icon: TrendingUp
   },
   {
-    company: "GrowthCorp",
-    role: "VP of Marketing",
+    company: "UTM.io & McGaw.io",
+    role: "Growth & Product",
     period: "2021 - 2023",
     highlights: [
       "Led complete brand repositioning resulting in 85% increase in brand awareness",
