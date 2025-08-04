@@ -45,7 +45,7 @@ const Hero = () => {
         </div>
 
         {/* Desktop Layout */}
-        <div className="hidden lg:block space-y-8">
+        <div className="hidden lg:block">
           <div className="grid lg:grid-cols-[400px,1fr] gap-16 items-start">
             {/* Left Content - Headshot */}
             <div className="flex justify-center lg:justify-start animate-slide-up">
@@ -59,8 +59,8 @@ const Hero = () => {
               </div>
             </div>
 
-            {/* Right Content - Text */}
-            <div className="space-y-4 animate-fade-in">
+            {/* Right Content - Text and Button */}
+            <div className="space-y-6 animate-fade-in">
               <div className="space-y-3">
                 <h1 className="text-5xl lg:text-6xl font-bold text-foreground leading-tight">
                   Digital CMO &
@@ -70,20 +70,20 @@ const Hero = () => {
                   Specialized in leading cross-functional teams to drive D2C growth via product innovation, performance acquisition, and optimizing customer lifetime value.
                 </p>
               </div>
+              
+              {/* Button aligned with text */}
+              <div className="flex">
+                <Button 
+                  variant="hero" 
+                  size="xl" 
+                  className="group"
+                  onClick={() => window.open('https://www.linkedin.com/in/samanthalewe', '_blank')}
+                >
+                  Connect on LinkedIn
+                  <ExternalLink className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+                </Button>
+              </div>
             </div>
-          </div>
-          
-          {/* Buttons Below */}
-          <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in">
-            <Button 
-              variant="hero" 
-              size="xl" 
-              className="group"
-              onClick={() => window.open('https://www.linkedin.com/in/samanthalewe', '_blank')}
-            >
-              Connect on LinkedIn
-              <ExternalLink className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-            </Button>
           </div>
         </div>
       </div>
