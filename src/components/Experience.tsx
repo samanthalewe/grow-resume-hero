@@ -36,7 +36,7 @@ const experiences = [
       "Served as founding CEO of premium unlimited telco brand, under FreedomPop's portfolio",
       "Architected and executed comprehensive go-to-market strategy for premium unlimited telco brand launch, including market analysis, competitive positioning, pricing strategy, and customer acquisition planning"
     ],
-    metrics: "2400% ARR growth • 65% CAC reduction • NPS: 72",
+    metrics: "Acquired by Iggy Azalea",
     icon: Zap
   },
   {
