@@ -20,9 +20,9 @@ const experiences = [
     role: "Growth & Product",
     period: "2021 - 2023",
     highlights: [
-      "Led complete brand repositioning resulting in 85% increase in brand awareness",
-      "Launched multi-channel acquisition strategy generating $50M+ in revenue",
-      "Mentored and developed 3 direct reports into leadership roles"
+      "Developed sales program to increase demos by 400%",
+      "Led product roadmap to target and exceed 20% MoM MRR Growth",
+      "Execute product-led growth strategies like improved sign up flow to optimize conversion by 84%"
     ],
     metrics: "85% brand awareness • $50M+ revenue • 3 promotions",
     icon: Target
