@@ -22,7 +22,7 @@ const Hero = () => {
           <div className="space-y-4 animate-fade-in">
             <div className="space-y-3">
               <h1 className="text-4xl font-bold text-foreground leading-tight">
-                Fractional CMO &
+                Digital CMO &
                 <span className="text-primary block">Growth Catalyst</span>
               </h1>
               <p className="text-lg text-muted-foreground leading-relaxed">
@@ -78,7 +78,7 @@ const Hero = () => {
             <div className="space-y-4 animate-fade-in">
               <div className="space-y-3">
                 <h1 className="text-5xl lg:text-6xl font-bold text-foreground leading-tight">
-                  Fractional CMO &
+                  Digital CMO &
                   <span className="text-primary block">Growth Catalyst</span>
                 </h1>
                 <p className="text-xl text-muted-foreground leading-relaxed">
