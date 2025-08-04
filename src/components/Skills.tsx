@@ -34,7 +34,7 @@ const skillCategories = [
   {
     title: "Marketing Channels",
     icon: Megaphone,
-    skills: ["Paid Media", "SMS", "Push", "Performance Marketing"],
+    skills: ["Paid Media", "SMS", "Push", "Performance Marketing", "Affiliate", "Display", "UAC", "SEO", "Paid Search", "Paid Social Media"],
     color: "bg-orange-500/10 text-orange-600 border-orange-200"
   },
   {
